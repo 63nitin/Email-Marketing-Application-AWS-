@@ -1,1 +1,1 @@
-# Email-Marketing-Application-AWS-
+# Email-Marketing-Application-AWS

@@ -1,1 +1,1 @@
-# Email-Marketing-Application-AWS
+# Project: Serverless-Email-Marketing-Application

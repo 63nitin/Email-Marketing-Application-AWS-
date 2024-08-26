@@ -79,7 +79,8 @@ This project automates the email marketing process using a serverless architectu
   7. ![Screenshot 2024-08-26 195216](https://github.com/user-attachments/assets/d00e9ad5-6aad-47d7-9e8b-f8fee734c55d)
 
 ### 7. Email Output(check your given mail)
-  ![Screenshot 2024-08-26 223020](https://github.com/user-attachments/assets/aab10e9d-476a-4579-9e6e-1f8111c374b4)
+  ![Screenshot 2024-08-26 223020](https://github.com/user-attachments/assets/c4a49c4e-aea1-489e-a152-81be0cdd6c15)
+
 
 ### Project Completion Time
   . Approximately 2-3 hours, depending on the complexity Sevices Like use of DynamoDM insteed of CSV file.
